@@ -5,7 +5,7 @@
 Debian & Ubuntu
 
 ```
-wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/primovist/snell.sh/master/snell.sh
+wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/deco-hash/snell.sh/master/snell.sh
 chmod +x snell.sh
 ./snell.sh
 ```
@@ -13,7 +13,7 @@ chmod +x snell.sh
 Centos & RedHat
 
 ```
-wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/primovist/snell.sh/master/snell.centos.sh
+wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/deco-hash/snell.sh/master/snell.centos.sh
 chmod +x snell.sh
 ./snell.sh
 ```
@@ -34,7 +34,7 @@ systemctl status snell
 Uninstall
 
 ```
-wget --no-check-certificate -O uninstall-snell.sh https://raw.githubusercontent.com/primovist/snell.sh/master/uninstall-snell.sh
+wget --no-check-certificate -O uninstall-snell.sh https://raw.githubusercontent.com/deco-hash/snell.sh/master/uninstall-snell.sh
 chmod +x uninstall-snell.sh
 ./uninstall-snell.sh
 ```
