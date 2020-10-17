@@ -18,15 +18,20 @@ chmod +x snell.sh
 ./snell.sh
 ```
 
+Conf
+
+```
 nano /etc/snell/snell-server.conf
 systemctl restart snell
 ```
 
+Status
 
 ```
 systemctl status snell
 ```
 
+Uninstall
 
 ```
 wget --no-check-certificate -O uninstall-snell.sh https://raw.githubusercontent.com/primovist/snell.sh/master/uninstall-snell.sh
